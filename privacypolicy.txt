@@ -1,0 +1,54 @@
+MindMate Privacy Policy
+
+Last updated: 23/09/2023
+
+Welcome to MindMate
+Welcome to MindMate, a mental health community app designed to provide a supportive platform for users to share their experiences, access helpful features, and connect with others in the pursuit of mental well-being. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use the MindMate app and its associated services.
+
+Before using MindMate, please read this Privacy Policy carefully to understand our practices regarding your data. By accessing or using the app, you consent to the practices described in this policy.
+
+Information We Collect
+Account Information
+Registration Data: When you sign up for MindMate, we collect information such as your name, email address, and password.
+User-Generated Content
+Images and Posts: Users can post images and share their experiences. These posts may include personal information and content you choose to share.
+App Usage Data
+Usage Patterns: We collect information about how you use the app, including interactions with features like healing music, sleep tracker, mood tracker, daily journal, and positive affirmations.
+Device Information
+Device Identifiers: We collect device-specific information such as device type, operating system, and unique identifiers.
+Location Information
+Location Data: If you grant us permission, we may collect location information to provide location-based features and improve user experiences.
+How We Use Your Information
+We use the information we collect for various purposes, including but not limited to:
+
+Providing and enhancing the MindMate app and its features.
+Offering personalized content and recommendations.
+Responding to user inquiries and support requests.
+Conducting research and analytics to improve our services.
+Complying with legal obligations.
+Sharing of Your Information
+We may share your information with:
+
+Third-Party Service Providers: We may use third-party services to help us operate the app, including analytics, hosting, and customer support services.
+
+Community Interaction: Your user-generated content may be visible to other users as part of the app's community features, such as comments and posts.
+
+Legal Compliance: We may share information as required by law, such as responding to legal requests or protecting our rights.
+
+Your Choices
+You have control over your personal information. You can:
+
+Edit your profile information.
+Adjust app notification preferences.
+Delete your account and associated data.
+Security
+We take data security seriously and implement reasonable measures to protect your information. However, no method of transmission over the internet or electronic storage is 100% secure. We cannot guarantee absolute security.
+
+Children's Privacy
+MindMate is not intended for children under the age of 13. We do not knowingly collect or solicit personal information from minors.
+
+Changes to this Privacy Policy
+We have the right to change this Privacy Policy at any time. Any changes will be posted on this page, and the "Last updated" date will be revised accordingly. Please check this page periodically for updates. Your continued use of MindMate after any changes to this Privacy Policy constitutes your acceptance of the updated policy.
+
+Contact Us
+If you have questions, concerns, or requests regarding your privacy or this Privacy Policy, please contact us at official.mindmate@gmail.com.
